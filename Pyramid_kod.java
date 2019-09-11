@@ -1,15 +1,15 @@
-package Package_1;
+package Package_1; 
 
-import javax.swing.*;
+import javax.swing.*; //import av standard funktioner i standardpacketet javax som ingår i Netbeans IDE mjukvara
 
 public class Konvertera_C_Kod {
 
 public static void main(String [] args){
 
-int i, j, k;
-
+int i, j, k; //heltals variabler
+    
 int empty_spaces;
-int number_of_rows = 0; //heltals variabel
+int number_of_rows = 0; 
 
 boolean go=true;
 
